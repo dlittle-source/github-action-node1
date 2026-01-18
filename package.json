@@ -1,0 +1,21 @@
+{
+  "name": "github-action-node1",
+  "version": "1.0.0",
+  "description": "This repository is for testing node CI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlittle-source/github-action-node1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dlittle-source/github-action-node1/issues"
+  },
+  "homepage": "https://github.com/dlittle-source/github-action-node1#readme"
+}
